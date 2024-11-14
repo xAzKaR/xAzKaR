@@ -1,7 +1,7 @@
 ### Oi! 👋 ༼ つ ◕_◕ ༽つ
 
-- 🔭 Hoje trabalho com BackEnd
-- 🌱 Estou estudando AWS, Django, JS
+- 🔭 Hoje trabalho como Full Stack
+- 🌱 Estou estudando AWS, Django, JS e Angular
 
 
 [transparent]: https://github-readme-stats.vercel.app/api?username=xAzKaR&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
