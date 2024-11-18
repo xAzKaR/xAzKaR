@@ -3,20 +3,23 @@
 - 🔭 Hoje trabalho como Full Stack
 - 🌱 Estou estudando AWS, Django, JS e Angular
 
-### Skills
+### HardSkills
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=red)
+![C++](https://img.shields.io/badge/C%20++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=aws-dynamo-db)
+![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![JWT](https://img.shields.io/badge/JWT-;D-style=flat&logo=JSON%20web%20tokens)
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 
 **Frameworks**
 
@@ -37,6 +40,11 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
 ![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=Splunk)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-333333?style=flat&logo=amazons3&logoColor=white)
+![Amazon S2](https://img.shields.io/badge/Amazon%20EC2-333333?style=flat&logo=Amazon%20EC2&logoColor=white)
+![Amazon S2](https://img.shields.io/badge/Amazon%20EC2-333333?style=flat&logo=Amazon%20&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/Cassandra-333333.svg?style=flat&logo=apache-cassandra&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-333333?flat&logo=microsoft%20sql%20server&logoColor=white)
 
 **Testing**
 
@@ -51,9 +59,11 @@
 
 **DevTools**
 
-![vsCode](https://img.shields.io/badge/-vsCode-333333?style=flat&logo=v&logoColor=red)
+![Visual Studio Code](https://img.shields.io/badge/s%20Code-0078d7.svg?style=flat&logo=v&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flate&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
 [transparent]: https://github-readme-stats.vercel.app/api?username=xAzKaR&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
