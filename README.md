@@ -43,7 +43,6 @@
 ![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=Splunk)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-333333?style=flat&logo=amazons3&logoColor=white)
 ![Amazon S2](https://img.shields.io/badge/Amazon%20EC2-333333?style=flat&logo=Amazon%20EC2&logoColor=white)
-![Amazon S2](https://img.shields.io/badge/Amazon%20EC2-333333?style=flat&logo=Amazon%20&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/Cassandra-333333.svg?style=flat&logo=apache-cassandra&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-333333?flat&logo=microsoft%20sql%20server&logoColor=white)
 
