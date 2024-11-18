@@ -18,7 +18,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-![JWT](https://img.shields.io/badge/JWT-;D-style=flat&logo=JSON%20web%20tokens)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 
 **Frameworks &tcs**
@@ -27,6 +26,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
 ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Apache%20Maven)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
+![JWT](https://img.shields.io/badge/JWT-;D-style=flat&logo=JSON%20web%20tokens)
 
 **DevSec & DevOps**
 
