@@ -25,6 +25,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Apache%20Maven)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 
 **DevOps**
