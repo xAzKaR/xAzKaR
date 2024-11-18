@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 
 **Frameworks**
 
@@ -44,14 +45,15 @@
 ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=Cucumber)
 ![Gherkin](https://img.shields.io/badge/-Gherkin-333333?style=flat&logo=Cucumber)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
 ![TAAC](https://img.shields.io/badge/-TAAC-333333?style=flat&logo=kafka)
 
 
 **DevTools**
 
-![vsCode](https://img.shields.io/badge/-vsCode-333333?style=flat&logo=v)
-![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+![vsCode](https://img.shields.io/badge/-vsCode-333333?style=flat&logo=v&logoColor=red)
+![Intellij IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=white)
 
 
 [transparent]: https://github-readme-stats.vercel.app/api?username=xAzKaR&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
