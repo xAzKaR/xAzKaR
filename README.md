@@ -1,7 +1,7 @@
 ### Oi! 👋 ༼ つ ◕_◕ ༽つ
 
 - 🔭 Hoje trabalho como Full Stack
-- 🌱 Estou estudando AWS, Django, JS e Angular
+- 🌱 Atualmente estou estudando Node e AWS
 
 ### HardSkills
 
