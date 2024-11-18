@@ -54,7 +54,6 @@
 ![Gherkin](https://img.shields.io/badge/-Gherkin-333333?style=flat&logo=Cucumber)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
-![TAAC](https://img.shields.io/badge/-TAAC-333333?style=flat&logo=kafka)
 
 
 **DevTools**
