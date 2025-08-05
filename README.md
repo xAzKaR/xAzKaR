@@ -1,6 +1,6 @@
 ### Oi! 👋 ༼ つ ◕_◕ ༽つ
 
-- 🔭 Hoje trabalho como Full Stack
+- 🔭 Hoje trabalho como Backend, mas as vezes me aventuro com Angular!
 - 🌱 Atualmente estou estudando Kotlin e AWS
 
 ### HardSkills
@@ -8,7 +8,6 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C%20++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
@@ -19,6 +18,7 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=red)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 
 **Frameworks &tcs**
 
