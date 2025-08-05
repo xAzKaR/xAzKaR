@@ -1,13 +1,12 @@
 ### Oi! 👋 ༼ つ ◕_◕ ༽つ
 
 - 🔭 Hoje trabalho como Full Stack
-- 🌱 Atualmente estou estudando Node e AWS
+- 🌱 Atualmente estou estudando Kotlin e AWS
 
 ### HardSkills
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=red)
 ![C++](https://img.shields.io/badge/C%20++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -19,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=red)
 
 **Frameworks &tcs**
 
