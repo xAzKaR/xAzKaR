@@ -65,8 +65,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flate&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-[transparent]: https://github-readme-stats.vercel.app/api?username=xAzKaR&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
-![transparent][transparent]
+
 <div> 
   <a href="https://instagram.com/leogomidz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/xarzkanazk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
